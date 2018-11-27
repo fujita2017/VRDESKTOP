@@ -1,0 +1,19 @@
+[uDD::Log][2018-11-15 12:09:43] Start
+[uDD::Log][2018-11-15 12:09:43] Duplicator::Initialize() => OK.
+[uDD::Log][2018-11-15 12:09:43]     ID    : 0
+[uDD::Log][2018-11-15 12:09:43]     Size  : (1920, 1080)
+[uDD::Log][2018-11-15 12:09:43]     DPI   : (95, 95)
+[uDD::Log][2018-11-15 12:09:43]     Rot   : Landscape
+[uDD::Err][2018-11-15 12:09:43] Monitor::Initialize() => GetDpiForMonitor() failed.
+[uDD::Log][2018-11-15 12:09:43] Duplicator::Initialize() => OK.
+[uDD::Log][2018-11-15 12:09:43]     ID    : 1
+[uDD::Log][2018-11-15 12:09:43]     Size  : (1920, 1080)
+[uDD::Log][2018-11-15 12:09:43]     DPI   : (0, 0)
+[uDD::Log][2018-11-15 12:09:43]     Rot   : Landscape
+[uDD::Log][2018-11-15 12:09:43] Duplicator::Initialize() => OK.
+[uDD::Log][2018-11-15 12:09:43]     ID    : 2
+[uDD::Log][2018-11-15 12:09:43]     Size  : (1920, 1080)
+[uDD::Log][2018-11-15 12:09:43]     DPI   : (95, 95)
+[uDD::Log][2018-11-15 12:09:43]     Rot   : Landscape
+[uDD::Err][2018-11-15 12:09:43] Duplicator::CheckUnityAdapter() => The adapter is not same as Unity, and now this case is not supported.
+[uDD::Log][2018-11-15 12:10:42] Stop
