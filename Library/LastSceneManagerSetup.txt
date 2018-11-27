@@ -1,7 +1,0 @@
-sceneSetups:
-- path: Assets/VR Desktop3.unity
-  isLoaded: 1
-  isActive: 1
-- path: Assets/Hover/InputModules/LeapMotion/Scenes/HoverInputModule-LeapMotion.unity
-  isLoaded: 1
-  isActive: 0
