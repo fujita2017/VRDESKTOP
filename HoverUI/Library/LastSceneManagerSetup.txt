@@ -1,4 +1,0 @@
-sceneSetups:
-- path: Assets/HoverDemos/CastCubes/Scenes/CastCubes.unity
-  isLoaded: 1
-  isActive: 1
