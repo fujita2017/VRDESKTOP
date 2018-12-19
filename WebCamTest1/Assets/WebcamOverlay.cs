@@ -46,14 +46,14 @@ public class WebcamOverlay : MonoBehaviour
 
         if (Input.GetKeyDown(KeyCode.A))
         {
-            hoge.sizeDelta = new Vector2(20, 10);
+            hoge.sizeDelta = new Vector2(100, 50);
             hoge.localPosition = new Vector3(0, 0, 0);　//動いた！
         }
 
         if (Input.GetKeyDown(KeyCode.S))
         {
             hoge.sizeDelta = new Vector2(4 ,2);
-            hoge.localPosition = new Vector3(-6, 0, 0);　//動いた！
+            hoge.localPosition = new Vector3(00, 0, 0);　//動いた！
         }
     }
 }
