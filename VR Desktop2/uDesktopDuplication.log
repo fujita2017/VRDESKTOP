@@ -1,19 +1,19 @@
-[uDD::Log][2018-11-15 13:27:00] Start
-[uDD::Log][2018-11-15 13:27:00] Duplicator::Initialize() => OK.
-[uDD::Log][2018-11-15 13:27:00]     ID    : 0
-[uDD::Log][2018-11-15 13:27:00]     Size  : (1920, 1080)
-[uDD::Log][2018-11-15 13:27:00]     DPI   : (95, 95)
-[uDD::Log][2018-11-15 13:27:00]     Rot   : Landscape
-[uDD::Err][2018-11-15 13:27:00] Monitor::Initialize() => GetDpiForMonitor() failed.
-[uDD::Log][2018-11-15 13:27:00] Duplicator::Initialize() => OK.
-[uDD::Log][2018-11-15 13:27:00]     ID    : 1
-[uDD::Log][2018-11-15 13:27:00]     Size  : (1920, 1080)
-[uDD::Log][2018-11-15 13:27:00]     DPI   : (0, 0)
-[uDD::Log][2018-11-15 13:27:00]     Rot   : Landscape
-[uDD::Log][2018-11-15 13:27:00] Duplicator::Initialize() => OK.
-[uDD::Log][2018-11-15 13:27:00]     ID    : 2
-[uDD::Log][2018-11-15 13:27:00]     Size  : (1920, 1080)
-[uDD::Log][2018-11-15 13:27:00]     DPI   : (95, 95)
-[uDD::Log][2018-11-15 13:27:00]     Rot   : Landscape
-[uDD::Err][2018-11-15 13:27:00] Duplicator::CheckUnityAdapter() => The adapter is not same as Unity, and now this case is not supported.
-[uDD::Log][2018-11-15 13:29:56] Stop
+[uDD::Log][2018-11-28 10:48:59] Start
+[uDD::Log][2018-11-28 10:48:59] Duplicator::Initialize() => OK.
+[uDD::Log][2018-11-28 10:48:59]     ID    : 0
+[uDD::Log][2018-11-28 10:48:59]     Size  : (1920, 1080)
+[uDD::Log][2018-11-28 10:48:59]     DPI   : (95, 95)
+[uDD::Log][2018-11-28 10:48:59]     Rot   : Landscape
+[uDD::Err][2018-11-28 10:48:59] Monitor::Initialize() => GetDpiForMonitor() failed.
+[uDD::Log][2018-11-28 10:48:59] Duplicator::Initialize() => OK.
+[uDD::Log][2018-11-28 10:48:59]     ID    : 1
+[uDD::Log][2018-11-28 10:48:59]     Size  : (1920, 1080)
+[uDD::Log][2018-11-28 10:48:59]     DPI   : (0, 0)
+[uDD::Log][2018-11-28 10:48:59]     Rot   : Landscape
+[uDD::Log][2018-11-28 10:48:59] Duplicator::Initialize() => OK.
+[uDD::Log][2018-11-28 10:48:59]     ID    : 2
+[uDD::Log][2018-11-28 10:48:59]     Size  : (1920, 1080)
+[uDD::Log][2018-11-28 10:48:59]     DPI   : (95, 95)
+[uDD::Log][2018-11-28 10:48:59]     Rot   : Landscape
+[uDD::Err][2018-11-28 10:48:59] Duplicator::CheckUnityAdapter() => The adapter is not same as Unity, and now this case is not supported.
+[uDD::Log][2018-11-28 10:50:08] Stop

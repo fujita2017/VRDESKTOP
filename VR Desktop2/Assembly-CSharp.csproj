@@ -260,6 +260,7 @@
     <Compile Include="Assets\Scripts\Cube2.cs" />
     <Compile Include="Assets\Scripts\Delete.cs" />
     <Compile Include="Assets\Scripts\PinchCursor.cs" />
+    <Compile Include="Assets\SetImage.cs" />
     <Compile Include="Assets\SteamVR\Extras\SteamVR_GazeTracker.cs" />
     <Compile Include="Assets\SteamVR\Extras\SteamVR_LaserPointer.cs" />
     <Compile Include="Assets\SteamVR\Extras\SteamVR_Teleporter.cs" />
@@ -378,6 +379,7 @@
     <Compile Include="Assets\uDesktopDuplication\Scripts\Monitor.cs" />
     <Compile Include="Assets\uDesktopDuplication\Scripts\Texture.cs" />
     <Compile Include="Assets\uDesktopDuplication\Scripts\Utility.cs" />
+    <Compile Include="Assets\WebcamOverlay.cs" />
     <None Include="Assets\SteamVR\Resources\SteamVR_Fade.shader" />
     <None Include="Assets\LeapMotion\Core\Resources\LeapCG.cginc" />
     <None Include="Assets\LeapMotion\Core\README_BEFORE_UPDATING.txt" />
@@ -406,14 +408,17 @@
     <None Include="Assets\SteamVR\InteractionSystem\Core\Shaders\SeeThru.shader" />
     <None Include="Assets\uDesktopDuplication\Shaders\uDD_Unlit_Transparent.shader" />
     <None Include="Assets\SteamVR\InteractionSystem\Readme_InteractionSystem.txt" />
+    <Reference Include="UnityEditor.StandardEvents">
+      <HintPath>D:/Unity/VRDESKTOP/VR Desktop2/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>C:/Users/smcuser/VR Desktop2/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>D:/Unity/VRDESKTOP/VR Desktop2/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>C:/Users/smcuser/VR Desktop2/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>D:/Unity/VRDESKTOP/VR Desktop2/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>C:/Users/smcuser/VR Desktop2/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>D:/Unity/VRDESKTOP/VR Desktop2/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2018.2.15f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
